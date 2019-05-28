@@ -1,6 +1,6 @@
 ## 目的
 
-感谢这款著名的"成年人学习工具" `https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo`
+感谢这款著名的"成年人学刁工具" `https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo`
 
 这里贡献一个为 **Mac** 用户写的脚本，用以自动化完成下载 app.asar 更新包、校验sha256、部署到 app 里的目标位置替换旧文件。
 
